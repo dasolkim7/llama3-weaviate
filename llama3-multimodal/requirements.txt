@@ -1,0 +1,3 @@
+pyannote
+torch==2.3
+torchaudio==2.3
